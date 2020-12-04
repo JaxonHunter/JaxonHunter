@@ -1,7 +1,9 @@
 <div class="bg-black">
  <h1 text="white">Jaxon Hunter</h1>
 </div>
- www.linkedin.com/in/jaxon-hunter
+ <p>Junior Developer who has expirence with HTML, CSS, JavaScript, Web API/HTTP, JS Frameworks, Nodejs, DotNet Core C#, SQL, MOngoDb</p>
+ 
+  www.linkedin.com/in/jaxon-hunter
 <!--
 **JaxonHunter/JaxonHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,7 @@
 ### Hi there 👋
-
+ www.linkedin.com/in/jaxon-hunter
 <!--
 **JaxonHunter/JaxonHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### www.linkedin.com/in/jaxon-hunter
 
 Here are some ideas to get you started:
 

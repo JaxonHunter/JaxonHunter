@@ -3,7 +3,7 @@
 <!--
 **JaxonHunter/JaxonHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BrcLa%2FaewTZ%2BlSGDBbYd3qA%3D%3D
+### www.linkedin.com/in/jaxon-hunter
 
 Here are some ideas to get you started:
 
